@@ -1,19 +1,31 @@
-<h2 align="center">ProfCyberNaught - Cyberspace Cosmic Cowboy
+<h2 align="center">ProfCyberNaught - Cyberspace Privacy Cowboy
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Emoticon - Waving Hand" width="28"></h2>
 
 <p align="center">
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p>
 
-It's great to connect with you all. I'm a versatile professional who's constantly honing my skills to become a master in my crafts. My passion for education led me to teach mathematics at university, while my love for music inspired me to become the founder of a professional music studio, assisting aspiring musicians to showcase their talents, develop their talents by teaching them advanced skills, and professionally grading their achievements.
+## Who is ProfCyberNaught
 
-In addition to that, I also founded my own IT consultancy business, offering comprehensive tech solutions, privacy audits, and strategic planning services to companies. With _multiple_ degrees covering Psychology, Law, Sociology, Education, and Management, as well as completion of a **cybersecurity bootcamp** studying **Cyber Industry Principles**.
+I'm a versatile professional who's constantly honing my skills to become a master in my crafts. My passion for education led me to teach mathematics at university, while my love for music inspired me to become the founder of a professional music studio, assisting aspiring musicians to showcase their talents, develop their knowledge by teaching them advanced theory skills, and professionally grading their achievements on multiple instruments.
 
-Well, well, well, looks like you're trying to fight off that pesky sleepiness by reading up on my credentials. Sorry to disappoint, but I won't be putting you to sleep with a long list of degrees and certifications. Trust me, you don't want to know about my expertise in llama grooming or my advanced training in cat juggling. So, let's just skip the yawn-inducing parts and get to the juicy stuff, shall we?
+In addition to that, I also founded my own IT consultancy business, offering comprehensive tech solutions, privacy audits, and strategic planning services to companies.
 
-As a tech enthusiast, I enjoy getting involved in coding, with PHP being my favorite language, and staying updated with the latest developments in cybersecurity and privacy. My love for coding started at a young age, when I began programming on an Amstrad 464 with a green CRT monitor at the tender age of 8.
+## Education Credentials
+
+Sorry to disappoint, but I won't be putting you to sleep with a long list of degrees and certifications. Trust me, you don't want to know about my expertise in llama grooming or my advanced training in cat juggling. So, let's just skip the yawn-inducing parts and get to the juicy stuff, shall we? I hold _multiple_ degrees covering Psychology, Law, Sociology, Education, and Management, as well as studying **Cybersecurity Industry Principles**.
+
+## Privacy Advocate
+
+Privacy, privacy, privacy - this is my grief! As someone who values personal freedom and autonomy, I'm a firm believer in safeguarding our privacy rights. After all, who wants their every move tracked and recorded like a lab rat? Not me, that's for sure! Let's keep those prying eyes out of our business and our personal data under lock and key, where it belongs.
+
+## Enthusiastic Interests
+
+As a **tech enthusiast**, I enjoy getting involved in coding, with **PHP** being my favorite language, and staying updated with the latest developments in **cybersecurity** and **privacy**. My love for coding started at a young age, when I began programming on an Amstrad 464 with a green CRT monitor at the tender age of 8.
 
 When I'm not working, you can find me (if you can keep up) on a nature trail, taking a long walk or immersed in a good book. My reading interests include privacy, security, positive psychology, and fictional recreations of Roman battles, among others. I'm always eager to explore new things and challenge myself intellectually.
+
+## Connecting with People
 
 I'm excited to connect with all of you and eager to share my insights and experiences. By the way, I've also started a blog that might pique your interest. Let's stay connected and make great things happen!
 
