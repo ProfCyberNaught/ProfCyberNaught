@@ -24,7 +24,7 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
  
 ## Languages and Tools
 
-[![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url]
+[![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![BUGTRACKER][BUGTRACKER]][BUGTRACKER-url]
 
 ## My Stats
 
@@ -45,3 +45,5 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 [CSS-url]: https://www.w3schools.com/Css/
 [SQL]: https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1
 [SQL-url]: https://www.w3schools.com/sql/
+[BUGTRACKER]: https://img.shields.io/badge/mantis%20bugtracker-000000?style=for-the-badge
+[BUGTRACKER-url]: https://mantisbt.org/
