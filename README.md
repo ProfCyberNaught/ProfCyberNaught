@@ -24,7 +24,7 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
  
 ## Languages and Tools
 
-[![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![BUGTRACKER][BUGTRACKER]][BUGTRACKER-url]
+[![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![BUGTRACKER][BUGTRACKER]][BUGTRACKER-url] [![UBUNTU][UBUNTU]][UBUNTU-url] [![GIT][GIT]][GIT-url] [![GITHUB][GITHUB]][GITHUB-url]
 
 ## My Stats
 
@@ -47,3 +47,11 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 [SQL-url]: https://www.w3schools.com/sql/
 [BUGTRACKER]: https://img.shields.io/badge/mantis%20bugtracker-000000?style=for-the-badge
 [BUGTRACKER-url]: https://mantisbt.org/
+[UBUNTU]: https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=orange
+[UBUNTU-url]: https://ubuntu.com/
+[GIT]: https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=orange
+[GIT-url]: https://git-scm.com/
+[GITHUB]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=grey
+[GITHUB-url]: https://github.com/
+
+
