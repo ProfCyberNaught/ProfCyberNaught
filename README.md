@@ -5,13 +5,6 @@
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p> 
 
-- 🚧 Open-Source **Contributor**
-- ❤️ As much as I can, I enjoy **educating**
-- 💬 Run a blog that might **pique your interest**
-- 👯 I’m looking to collaborate more on **projects**
-- 💬 Always eager to share my **insights and experiences**
-- ⚡ Fun fact **I founded two companies** (Music Production Studio)(IT Business Consultancy)😁
-
 ## Contact
 
 Mastodon: [@profcybernaught](https://infosec.exchange/@ProfCyberNaught)
