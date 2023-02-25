@@ -30,8 +30,6 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 
 ![ProfCyberNaught's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfCyberNaught&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCyberNaught&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
-
 ## My Cybersecurity Blog Articles 📝
 - [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/)
 
