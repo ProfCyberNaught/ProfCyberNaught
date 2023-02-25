@@ -20,6 +20,8 @@ Privacy, privacy, privacy - this is my grief! As someone who values personal fre
 
 Ah, the sweet sound of **encryption** - it's like music to my ears! As a staunch **supporter of privacy and security**, I firmly believe in everyone's right to encryption. Who wants their personal information and data floating around in cyberspace like a hot potato? Let's keep our digital lives on lockdown and make sure that no one can snoop around where they don't belong (let's stick it to '**Surveillance Capitalism**').
 
+I'm a huge fan of the **fediverse** - it's like social media, but with a conscience! As someone who **values privacy and community**, I'm a firm believer in the **decentralised** and **open-source** approach. It's refreshing to have a platform where we can connect with others without sacrificing our personal information or being bombarded by targeted ads. Let's keep building this **digital oasis** and say no to the big boys!
+
 ## Enthusiastic Interests
 
 As a **tech enthusiast**, I enjoy getting involved in coding, with **PHP** being my favorite language, and staying updated with the latest developments in **cybersecurity** and **privacy**. My love for coding started at a young age, when I began programming on an Amstrad 464 with my green-colour-screen CRT monitor at the tender age of 8.
