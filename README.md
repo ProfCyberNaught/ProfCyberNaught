@@ -55,7 +55,7 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 ## My Cybersecurity Blog Articles 📝
 - [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/)
 
-![](https://komarev.com/ghpvc/?username=ProfCyberNaught&color=green)
+![](https://komarev.com/ghpvc/?username=ProfCyberNaught&color=green&style=for-the-badge)
 
 [PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=purple
 [PHP-url]: https://www.php.net/
