@@ -1,11 +1,10 @@
-<h2 align="center">ProfCyberNaught - Cyberspace Privacy Cowboy
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Emoticon - Waving Hand" width="28"></h2>
+<h2 align="center">ProfCyberNaught - Cyberspace Privacy Cowboy</h2>
 
 <p align="center">
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p>
 
-## Who is ProfCyberNaught
+## Who is ProfCyberNaught?
 
 I'm a versatile professional who's constantly honing my skills to become a master in my crafts. My passion for education led me to teach mathematics at university, while my love for music inspired me to become the founder of a professional music studio, assisting aspiring musicians to showcase their talents, develop their knowledge by teaching them advanced theory skills, and professionally grading their achievements on multiple instruments.
 
@@ -19,11 +18,17 @@ Sorry to disappoint, but I won't be putting you to sleep with a long list of deg
 
 Privacy, privacy, privacy - this is my grief! As someone who values personal freedom and autonomy, I'm a firm believer in safeguarding our privacy rights. After all, who wants their every move tracked and recorded like a lab rat? Not me, that's for sure! Let's keep those prying eyes out of our business and our personal data under lock and key, where it belongs.
 
+Ah, the sweet sound of **encryption** - it's like music to my ears! As a staunch **supporter of privacy and security**, I firmly believe in everyone's right to encryption. Who wants their personal information and data floating around in cyberspace like a hot potato? Let's keep our digital lives on lockdown and make sure that no one can snoop around where they don't belong (let's stick it to '**Surveillance Capitalism**').
+
 ## Enthusiastic Interests
 
-As a **tech enthusiast**, I enjoy getting involved in coding, with **PHP** being my favorite language, and staying updated with the latest developments in **cybersecurity** and **privacy**. My love for coding started at a young age, when I began programming on an Amstrad 464 with a green CRT monitor at the tender age of 8.
+As a **tech enthusiast**, I enjoy getting involved in coding, with **PHP** being my favorite language, and staying updated with the latest developments in **cybersecurity** and **privacy**. My love for coding started at a young age, when I began programming on an Amstrad 464 with my green-colour-screen CRT monitor at the tender age of 8.
 
-When I'm not working, you can find me (if you can keep up) on a nature trail, taking a long walk or immersed in a good book. My reading interests include privacy, security, positive psychology, and fictional recreations of Roman battles, among others. I'm always eager to explore new things and challenge myself intellectually.
+When I'm not working, you can find me (if you can keep up) on a nature trail, taking a long walk or immersed in a good book. My reading interests include privacy, security, psychology, self help, and limited fictional recreations, among others.
+
+Ugh, **advertisements make me want to pull my hair out!** That's why I avoid regular TV like the plague, and block adverts using **pfSense firewall** on my network. But, there are a few boxsets I own that are worth the occasional watch - Friends, Voyager, and Two and a Half Men have all found a special place in my heart. I mean, who can resist the wacky antics of Ross and Rachel, the bold explorations of the USS Voyager, or the hilarious hijinks of Charlie and Alan?
+
+I'm always eager to explore new things and challenge myself intellectually.
 
 ## Connecting with People
 
