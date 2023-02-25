@@ -52,10 +52,10 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 
 ![ProfCyberNaught's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfCyberNaught&show_icons=true&theme=tokyonight&count_private=true)
 
+![](https://komarev.com/ghpvc/?username=ProfCyberNaught&color=green&style=for-the-badge)
+
 ## My Cybersecurity Blog Articles 📝
 - [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/)
-
-![](https://komarev.com/ghpvc/?username=ProfCyberNaught&color=green&style=for-the-badge)
 
 [PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=purple
 [PHP-url]: https://www.php.net/
