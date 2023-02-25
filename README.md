@@ -1,15 +1,15 @@
-<h2 align="center">Hi, I'm ProfCyberNaught
+<h2 align="center">ProfCyberNaught - Cyberspace Cosmic Cowboy
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Emoticon - Waving Hand" width="28"></h2>
 
 <p align="center">
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p>
 
-Greetings!
+It's great to connect with you all. I'm a versatile professional who's constantly honing my skills to become a master in my crafts. My passion for education led me to teach mathematics at university, while my love for music inspired me to become the founder of a professional music studio, assisting aspiring musicians to showcase their talents, develop their talents by teaching them advanced skills, and professionally grading their achievements.
 
-It's great to connect with you all. I'm a versatile professional who's constantly honing my skills to become a master in my crafts. My passion for education led me to teach mathematics at university, while my love for music inspired me to become the founder of a professional studio, assisting aspiring musicians to showcase their talents, develop their talents by teaching them advanced skills, and professionally grading their achievements.
+In addition to that, I also founded my own IT consultancy business, offering comprehensive tech solutions, privacy audits, and strategic planning services to companies. With _multiple_ degrees covering Psychology, Law, Sociology, Education, and Management, as well as completion of a **cybersecurity bootcamp** studying **Cyber Industry Principles**.
 
-In addition to that, I also founded my own IT consultancy business, offering comprehensive tech solutions, privacy audits, and strategic planning services to companies. With multiple degrees in Psychology, Law, Sociology, Education, and Management, as well as completion of a cybersecurity bootcamp studying industry principles, along with studying Lean Organisational Management, and User IT Skills, I possess a wide array of qualifications and expertise (trying to prevent you from falling asleep by not listing all my education here).
+Well, well, well, looks like you're trying to fight off that pesky sleepiness by reading up on my credentials. Sorry to disappoint, but I won't be putting you to sleep with a long list of degrees and certifications. Trust me, you don't want to know about my expertise in llama grooming or my advanced training in cat juggling. So, let's just skip the yawn-inducing parts and get to the juicy stuff, shall we?
 
 As a tech enthusiast, I enjoy getting involved in coding, with PHP being my favorite language, and staying updated with the latest developments in cybersecurity and privacy. My love for coding started at a young age, when I began programming on an Amstrad 464 with a green CRT monitor at the tender age of 8.
 
