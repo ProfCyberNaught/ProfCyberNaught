@@ -23,14 +23,8 @@ Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/Pro
 Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
  
 ## Languages and Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP-8" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="MySQL" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt="GITHUB" width="50" height="50"i/>
-</p>
+
+[![PHP][PHP]][PHP-url] [![SQL][SQL]][SQL-url] [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url]
 
 ## My Stats
 
@@ -42,3 +36,12 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 - [Cybersecurity Blog - ProfCyberNaught](https://profcybernaught.hashnode.dev/)
 
 ![](https://komarev.com/ghpvc/?username=ProfCyberNaught&color=green)
+
+[PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=purple
+[PHP-url]: https://www.php.net/
+[HTML]: https://img.shields.io/badge/html-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26
+[HTML-url]: https://www.w3schools.com/html/
+[CSS]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6
+[CSS-url]: https://www.w3schools.com/Css/
+[SQL]: https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1
+[SQL-url]: https://www.w3schools.com/sql/
