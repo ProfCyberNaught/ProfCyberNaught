@@ -5,8 +5,6 @@
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p> 
 
-## Contact
-
 Mastodon: [@profcybernaught](https://infosec.exchange/@ProfCyberNaught)
 
 Encrypted Email: [profcybernaught - Proton - me]()
