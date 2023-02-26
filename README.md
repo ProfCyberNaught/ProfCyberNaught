@@ -38,7 +38,7 @@ I'm excited to connect with all of you and eager to share my insights and experi
 
 Mastodon: [@profcybernaught](https://infosec.exchange/@ProfCyberNaught)
 
-Encrypted Email: [profcybernaught - Proton - me]()
+Encrypted Email: [profcybernaught - Proton - me](#)
 
 Public Email Key: [Public Encryption Key](https://github.com/ProfCyberNaught/ProfCyberNaught/blob/main/pcn_pek_email/)
 
