@@ -73,5 +73,3 @@ Website Link: [Cybersecurity Blog](https://profcybernaught.hashnode.dev/)
 [GIT-url]: https://git-scm.com/
 [GITHUB]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=grey
 [GITHUB-url]: https://github.com/
-
-
