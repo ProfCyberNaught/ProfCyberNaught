@@ -7,8 +7,8 @@
 <!-- Account LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ProfCyberNaught/cybersecurity-blog-posts">
-    <img src="pcn_images/pcn_cybersecurity-blog-posts_logo.png" alt="Cybersecurity Blog Posts - ProfCyberNaught" width="80" height="80">
+  <a href="https://github.com/ProfCyberNaught">
+    <img src="pcn_images/pcn_profcybernaught_profile_logo.png" alt="ProfCyberNaught of Cybernaught Industries" width="80" height="80">
   </a>
 </div>
 
