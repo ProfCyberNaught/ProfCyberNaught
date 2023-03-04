@@ -5,7 +5,6 @@
 </p>
 
 <!-- Account LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/ProfCyberNaught">
     <img src="pcn_images/pcn_profcybernaught_profile_logo.png" alt="ProfCyberNaught of Cybernaught Industries" width="500" height="500">
