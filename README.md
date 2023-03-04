@@ -1,7 +1,7 @@
 <h2 align="center">ProfCyberNaught - CyberNaught Industries</h2>
 
 <p align="center">
-  <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=50" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a> <!-- 640&height=50 -->
+  <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=30" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a> <!-- 640&height=50 -->
 </p>
 
 <!-- Account LOGO -->
