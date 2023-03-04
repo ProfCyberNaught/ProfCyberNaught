@@ -1,8 +1,16 @@
-<h2 align="center">ProfCyberNaught - Cyberspace Privacy Cowboy</h2>
+<h2 align="center">ProfCyberNaught - CyberNaught Industries</h2>
 
 <p align="center">
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p>
+
+<!-- Account LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ProfCyberNaught">
+    <img src="pcn_images/pcn_profcybernaught_profile_logo.png" alt="ProfCyberNaught of Cybernaught Industries" width="80" height="80">
+  </a>
+</div>
 
 ## Who is ProfCyberNaught?
 
