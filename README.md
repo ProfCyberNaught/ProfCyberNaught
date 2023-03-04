@@ -4,6 +4,14 @@
   <a href="https://github.com/users/ProfCyberNaught/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20Engineer;Privacy%20Advocate;Back-end+Developer;Open%20Source%20Contributor&center=true&width=640&height=45" alt="Cybersecurity Engineer - Privacy Advocate - Back-end Developer - Open Source Contributor"></a>
 </p>
 
+<!-- Account LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ProfCyberNaught/cybersecurity-blog-posts">
+    <img src="pcn_images/pcn_cybersecurity-blog-posts_logo.png" alt="Cybersecurity Blog Posts - ProfCyberNaught" width="80" height="80">
+  </a>
+</div>
+
 ## Who is ProfCyberNaught?
 
 I'm a versatile professional who's constantly honing my skills to become a master in my crafts. My passion for education led me to teach mathematics at university, while my love for music inspired me to become the founder of a professional music studio, assisting aspiring musicians to showcase their talents, develop their knowledge by teaching them advanced theory skills, and professionally grading their achievements on multiple instruments.
