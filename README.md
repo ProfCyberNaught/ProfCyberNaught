@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ProfCyberNaught">
-    <img src="pcn_images/pcn_profcybernaught_profile_logo.png" alt="ProfCyberNaught of Cybernaught Industries" width="80" height="80">
+    <img src="pcn_images/pcn_profcybernaught_profile_logo.png" alt="ProfCyberNaught of Cybernaught Industries" width="250" height="250">
   </a>
 </div>
 
